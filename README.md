@@ -1,8 +1,8 @@
 # JPA-Hibernate
 
-# Système de Messagerie
 
-Ce projet est un système de messagerie développé en Java, permettant de gérer les données des employés et les messages échangés. Il utilise JDBC pour l'accès à la base de données MySQL, et Hibernate pour faciliter les opérations CRUD. Le développement se fait principalement dans l'IDE NetBeans.
+Ce projet est un système de gestion de stock, de projets, et de produits développé en Java. Il permet de gérer les projets, les tâches associées, ainsi que diverses opérations de manipulation de données. Le framework de persistance JPA Hibernate est utilisé pour simplifier les opérations CRUD. Le développement est principalement réalisé dans l'IDE NetBeans.
+
 
 ## Technologies Utilisées
 
