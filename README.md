@@ -35,7 +35,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
   <!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
   <hibernate-configuration>
     <session-factory>
-      <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/messagerie</property>
+      <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/(DBname)</property>
       <property name="hibernate.connection.username">votre_username</property>
       <property name="hibernate.connection.password">votre_password</property>
       <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
